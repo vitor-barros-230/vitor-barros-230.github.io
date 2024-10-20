@@ -1,6 +1,6 @@
 > **Location:** Bonn  
 > **Phone:** +49 15753729709  
-> **Email:** bhnvtyagi@gmail.com  
+> **Email:** vitor.barros230@gmail.com  
 > **Status:** Residence/work permit in Germany (DE) for 4 years now  
 
 ---
@@ -15,33 +15,7 @@
 
 ## 💼 Professional Summary
 
-With a fervor for problem-solving and a passion for coding, I bring to the table strong analytical abilities honed through academic experience. I delight in coding challenges across tech domains, from building elegant software solutions to facilitating data-driven decision-making. This blend of abilities and adaptability poises me well for a rewarding career in the field of IT.
-
----
-
-## 🔧 Technical Skills
-
-- **Python (4+ years):** Tensorflow, Matplotlib, NumPy, Pandas, Scikit-Learn
-- **Others:** Git, Linux, C++ (2+ years), SQL (new)
-
----
-
-## 🤖 Machine Learning Engineering
-
-- **Master thesis:** Developing a scalable pipeline for identifying special double star systems
-- Processed 10TB+ data for training the network.
-- Signal search with CNN and ‘Attention’ mechanisms.
-- High Performance Computing (training with 40+ GPU cores).
-
----
-
-## 📊 Data Processing
-
-- **Bachelor thesis:** Identification of molecular lines in distant galaxies
-- Created an extensive catalog (1 million+ lines) from various databases.
-- Processed the raw data of the radio telescope with a radio-astronomy specific programming language - CLASS.
-- Visualization of complex data using easy-to-understand diagrams
-
+I am a sociologist. 
 ---
 
 ## 🚀 Transferable Skills
